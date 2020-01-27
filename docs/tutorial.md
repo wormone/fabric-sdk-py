@@ -65,7 +65,7 @@ Then you'll have a fabric network with 3 organizations, 4 peers and 1 orderer:
  * orderer.example.com
    * orderer.example.com
 
-* Note: make sure `configtxgen` is in the '$PATH'.
+* __Note: make sure `configtxgen` is in the '$PATH'.__
 
 If you want to understand more details on starting up a fabric network, feel free to see the [Building Your First Network](https://hyperledger-fabric.readthedocs.io/en/latest/build_network.html) tutorial.
 
